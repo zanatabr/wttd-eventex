@@ -2,7 +2,7 @@
 *.html linguist-detectable=false
 *.scss linguist-detectable=false
 *.sass linguist-detectable=false
-*.js linguist-detectable=true
+*.js linguist-detectable=false
 *.py linguist-detectable=true
 
 
